@@ -1,0 +1,37 @@
+[
+  {
+    "mapel": "Matematika Wajib",
+    "topik": "Matriks",
+    "durasi": 120
+  },
+  {
+    "mapel": "Fisika",
+    "topik": "Gerak Harmoni",
+    "durasi": 180
+  },
+  {
+    "mapel": "Matematika Wajib",
+    "topik": "Transformasi Fungsi",
+    "durasi": 75
+  },
+  {
+    "mapel": "Matematika Lanjut",
+    "topik": "Trigonometri",
+    "durasi": 200
+  },
+  {
+    "mapel": "Fisika",
+    "topik": "Fluida",
+    "durasi": 60
+  },
+  {
+    "mapel": "Sejarah",
+    "topik": "Masa Penjajahan Jepang",
+    "durasi": 45
+  },
+  {
+    "mapel": "Biologi",
+    "topik": "Sistem Reproduksi",
+    "durasi": 135
+  }
+]
